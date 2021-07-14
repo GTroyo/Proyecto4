@@ -14,6 +14,6 @@ Para la densidad espectral de potencia se consiguieron valores satisfactorios da
 ## Comentario de los resultados
 La imagen se logró conseguir con gran satisfaccion dado a que muy pocos errores surgieron gracias a la exactitud de los parametros en la demodulacion ,dado a que originalmente se habian elegido los valor de 0.8 y esta daba muchos errores (pero aun se lograba distinguir la imagen) luego los de 1.5 ya daban resultados aceptables, pero cuando se utilizó el valor de 2 se dieron los mejores resultados posibles para distinguir las señales con ruido.
 En la segunda parte todas las pruebas para la estacionaridad se consiguieron probar satisfactoriamente con valores no exactamente iguales, pero si muy similares.
-Para la ergodicidad nose consiguió probar satisfactoriamente esta propiedad a pesar que la señal si la cumple, esto se puede deber a errores ligeros en el código.
+Para la ergodicidad no se consiguió probar satisfactoriamente esta propiedad a pesar que la señal si la cumple, esto se puede deber a errores ligeros en el código.
 Finalmente, en el espectro de densidad de potencias se tiene que los mayores valores obtenidos fueron con un punto central en los 5KHZ de frecuencia, lo cual era lo esperado y lo ideal, sino en caso contrario se tendría un espectro de potencia el cual no es referente a uno similar de la señal enviada originalemente, lo cual puede mostrar muchos errores en la señal y tambien se puede deber al ruido del ambiente.
 
